@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "Gosha Sans";
+  src: url("GoshaSans-Medium.eot");
+  src: local("Gosha Sans Medium"), local("GoshaSans-Medium"),
+    url("GoshaSans-Medium.eot?#iefix") format("embedded-opentype"),
+    url("GoshaSans-Medium.woff2") format("woff2"),
+    url("GoshaSans-Medium.woff") format("woff"),
+    url("GoshaSans-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Gosha Sans";
+  src: url("GoshaSans-Light.eot");
+  src: local("Gosha Sans Light"), local("GoshaSans-Light"),
+    url("GoshaSans-Light.eot?#iefix") format("embedded-opentype"),
+    url("GoshaSans-Light.woff2") format("woff2"),
+    url("GoshaSans-Light.woff") format("woff"),
+    url("GoshaSans-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Gosha Sans";
+  src: url("GoshaSans-Regular.eot");
+  src: local("Gosha Sans Regular"), local("GoshaSans-Regular"),
+    url("GoshaSans-Regular.eot?#iefix") format("embedded-opentype"),
+    url("GoshaSans-Regular.woff2") format("woff2"),
+    url("GoshaSans-Regular.woff") format("woff"),
+    url("GoshaSans-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
